@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_name: MyString
+  available_date: 2019-07-09
+  product_upc: MyString
+  property_name: MyString
+  property_value: MyString
+
+two:
+  product_name: MyString
+  available_date: 2019-07-09
+  product_upc: MyString
+  property_name: MyString
+  property_value: MyString
