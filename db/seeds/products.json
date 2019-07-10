@@ -1,0 +1,51 @@
+[
+  {
+    "product_name": "P1",
+    "available_date": "2019-07-18",
+    "product_upc": "1234567890",
+    "property_name": "Brand: VioletGrey",
+    "property_value": "Color: red"
+  },
+  {
+    "product_name": "P2",
+    "available_date": "2019-07-20",
+    "product_upc": "2134567890",
+    "property_name": "Brand: Nike",
+    "property_value": "Model: Airmax"
+  },
+  {
+    "product_name": "P3",
+    "available_date": "2019-07-22",
+    "product_upc": "3124567890",
+    "property_name": "Brand: Kswiss",
+    "property_value": "Model: Clouds and Dirt"
+  },
+  {
+    "product_name": "P4",
+    "available_date": "2019-07-24",
+    "product_upc": "4123567890",
+    "property_name": "Brand: Nike",
+    "property_value": "Model: Free Run 2.0"
+  },
+  {
+    "product_name": "P5",
+    "available_date": "2019-07-26",
+    "product_upc": "5123467890",
+    "property_name": "Brand: Nike",
+    "property_value": "Model: Roshie"
+  },
+  {
+    "product_name": "P6",
+    "available_date": "2019-07-28",
+    "product_upc": "6123457890",
+    "property_name": "Brand: Kswiss",
+    "property_value": "Model: Gen K"
+  },
+  {
+    "product_name": "P7",
+    "available_date": "2019-07-30",
+    "product_upc": "7123456890",
+    "property_name": "Brand: Adidas",
+    "property_value": "Model: Cloudfoam Pure"
+  }
+]
